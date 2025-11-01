@@ -1,0 +1,52 @@
+Select one of the four problems below and develop a short program based on the
+eight steps discussed in lecture. Write a short report that discusses what you
+did for each step and submit it together with your Python code. Your Python 
+code should include an extensive set of examples (input and output) that can be
+ used to verify the accuracy of your program. 
+ 
+ The 8-step recipe to approach programming challenges are:
+
+        1. Understand the problem
+
+        2. Work out examples
+
+        3. Decide on a user interface
+
+        4. Write down the algorithms (i.e., key components of the program)
+
+        5. Look up information
+
+        6. Write the program
+
+        7. Run the program
+
+        8. Verify the results
+
+
+I. WORD SUMMATION
+
+Given a string containing letters (or a word) from 'a' to 'z', create a function
+called sum_of_word, that returns the sum of all letters in the string. 
+The sum of the word is the sum of the ordinal position of each of the string’s
+letters in the standard English alphabet ordering. So, the letter 'a' will have
+a value of 1, 'z' will have a value of 26 and so on.
+
+II. PALINDROME
+
+Given a 3, 5 or 7-digit integer x, create a function that will return 
+true if x is a palindrome integer and false otherwise.
+
+Definition of Palindrome:
+A word, phrase, or sequence that reads the same backward as forward,
+e.g., madam or nurses run.
+
+III. NUMBER IN LIST
+
+Given a sorted numpy array of distinct integers and a separate target integer,
+return the index if the target is found. If not, return the index where it 
+would be if it were inserted in order.
+
+IV. STOP WORDS
+
+Given a list of stop words, write a function remove_stopword that takes a 
+string and returns a string stripped of the stop words.

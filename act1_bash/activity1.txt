@@ -1,0 +1,42 @@
+#!/bin/bash
+# use chmod to make the script executable
+#chmod u=rwx,g=rx,o=r activity1.txt
+
+# create new class dir
+class_dir=~/Documents/teaching/CERI/2025/DataAnalysis/activity/activity1_bash
+cd $class_dir
+#-------download data and unzip------------------
+mkdir data
+mv ~/Downloads/ranNum.zip $class_dir/data
+echo "unzip archive"
+# unzip [file] -d -flag for new dir
+unzip ranNum.zip -d data/
+
+# move images with specific filename
+echo "move images"
+mkdir plots
+mv data/15977*.png plots
+
+echo "move txt"
+mkdir txt
+mv data/15977*.txt txt
+
+# combine all ASCII files with specific file pattern
+echo "combine txts"
+cat txt/15977*.txt > AllNumbers.txt
+
+# move png with specific pattern
+mkdir plots/two
+mv plots/15977*_2.png plots/two/
+
+#----------check folder size and resize images-----
+echo "resize images"
+cd plots
+du -h
+for i in two/*.png; do convert "$i" -rotate 45 $i; done
+#sips -Z 50 two/*.png
+# for i in two/*.png; do convert "$i" -resize 200% $i; done
+# crop with new size and offset (0,0)
+for i in two/*.png; do convert "$i" -crop 28x28+5+5 $i; done
+# convert input.jpg -rotate <angle in degrees> out.jpg
+du -h

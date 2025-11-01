@@ -1,0 +1,15 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-08-20T21:46:55.970Z,36.5041667,-81.105,2.95,2.33,md,11,161,0.02105,0.23,se,se60112723,2020-08-22T03:37:20.564Z,"1 km E of Sparta, North Carolina",earthquake,0.74,0.68,0.057,11,reviewed,se,se
+2020-08-15T07:41:27.880Z,36.476,-81.1101667,2.06,2.13,md,10,130,0.01289,0.13,se,se60306027,2020-08-16T05:05:24.040Z,"3 km SSE of Sparta, North Carolina",earthquake,0.55,0.88,0.116,9,reviewed,se,se
+2020-08-12T06:11:45.490Z,36.4581667,-81.1095,0.05,2.15,md,12,131,0.02378,0.34,se,se60305217,2020-08-16T20:20:51.479Z,"5 km S of Sparta, North Carolina",earthquake,0.83,9.04,0.047,8,reviewed,se,se
+2020-08-12T00:20:01.350Z,36.4656667,-81.1108333,1.74,2.15,md,17,87,0.01849,0.23,se,se60305117,2020-08-17T02:08:06.040Z,Virginia-North Carolina border region,earthquake,0.48,0.81,0.164,13,reviewed,se,se
+2020-08-11T20:45:27.130Z,36.4721667,-81.1086667,3.14,2.87,md,25,52,0.01313,0.28,se,se60305067,2020-08-17T18:46:58.645Z,"3 km SSE of Sparta, North Carolina",earthquake,0.44,0.31,0.066,17,reviewed,se,se
+2020-08-11T10:50:17.650Z,36.4788333,-81.1065,2.74,2.22,md,13,121,0.009649,0.25,se,se60112223,2020-08-12T07:32:15.732Z,"3 km SSE of Sparta, North Carolina",earthquake,0.86,0.53,0.075,8,reviewed,se,se
+2020-08-10T11:10:03.650Z,36.4825,-81.0468333,0.04,2.21,md,14,77,0.4682,0.43,se,se60111933,2020-08-11T18:47:19.964Z,"7 km ESE of Sparta, North Carolina",earthquake,0.93,3.46,0.098,13,reviewed,se,se
+2020-08-10T08:43:06.430Z,36.4731667,-81.0748333,0.03,2.15,md,13,78,0.4532,0.38,se,se60111943,2020-08-11T00:04:29.774Z,"5 km SE of Sparta, North Carolina",earthquake,1.77,10.08,0.091,13,reviewed,se,se
+2020-08-09T12:07:37.680Z,36.4755,-81.0935,7.58,5.1,mw,34,50,0.452,0.33,se,se60324281,2020-08-22T12:45:09.903Z,"4 km SE of Sparta, North Carolina",earthquake,0.36,1.65,,0,reviewed,se,se
+2020-08-09T06:06:55.440Z,36.4736667,-81.0961667,6.33,2.17,md,11,109,0.4497,0.22,se,se60111823,2020-08-10T02:55:32.431Z,"4 km SSE of Sparta, North Carolina",earthquake,0.7,3.67,0.052,11,reviewed,se,se
+2020-08-09T05:57:15.800Z,36.4783333,-81.089,4.08,2.62,md,24,69,0.4555,0.28,se,se60111723,2020-08-13T04:00:53.791Z,"4 km SE of Sparta, North Carolina",earthquake,0.46,2.18,0.086,22,reviewed,se,se
+2020-08-09T04:43:39.990Z,36.4593333,-81.1056667,13.72,2.26,md,14,76,0.4342,0.18,se,se60111828,2020-08-17T18:49:06.223Z,"5 km SSE of Sparta, North Carolina",earthquake,0.99,6.57,0.039,11,reviewed,se,se
+2020-08-08T11:12:32.600Z,36.4651667,-81.0861667,2.74,2.3,md,17,77,0.4433,0.38,se,se60111523,2020-08-09T21:49:32.040Z,"5 km SE of Sparta, North Carolina",earthquake,0.88,2.62,0.047,13,reviewed,se,se
+2020-08-08T11:05:39.960Z,36.4935,-81.072,9.26,2.08,md,12,112,0.4734,0.39,se,se60111623,2020-08-10T02:17:13.682Z,"4 km ESE of Sparta, North Carolina",earthquake,1.27,4.06,0.069,11,reviewed,se,se

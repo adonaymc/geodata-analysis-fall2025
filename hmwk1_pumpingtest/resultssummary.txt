@@ -1,0 +1,64 @@
+
+=========== RESULTS SUMMARY at r=60.96 m ====================
+Initial Fit (With Outliers):
+  Storage Coefficient Unconstrained S: 0.0001486965 []
+  Transmissivity Unconstrained T: 0.0150833004 (m2/s)
+  Hydraulic Diffusivity Unconstrained D: 101.4368540978 (m2/s)
+  Storage Coefficient Constrained S: 0.0001486964 []
+  Transmissivity Constrained T: 0.0150833004 (m2/s)
+  Hydraulic Diffusivity Constrained D: 101.4368562737 (m2/s)
+  Mean of Residuals (Unconstrained): -0.0005140072
+  Standard Deviation of Residuals (Unconstrained): 0.1205741177
+  Mean of Residuals (Constrained): -0.0005140119
+  Standard Deviation of Residuals (Constrained): 0.1205741177
+
+After Outlier Removal:
+  Storage Coefficient S: 0.0002012698 []
+  Transmissivity T: 0.0143830164 (m2/s)
+  Hydraulic Diffusivity D: 71.4613697887 (m2/s)
+  Mean of Residuals: 0.0000037799
+  Standard Deviation of Residuals: 0.0024828563
+==============================================================
+
+=========== RESULTS SUMMARY at r=121.92 m ====================
+Initial Fit (With Outliers):
+  Storage Coefficient Unconstrained S: 0.0002011003 []
+  Transmissivity Unconstrained T: 0.0144075971 (m2/s)
+  Hydraulic Diffusivity Unconstrained D: 71.6438492556 (m2/s)
+  Storage Coefficient Constrained S: 0.0002011004 []
+  Transmissivity Constrained T: 0.0144075930 (m2/s)
+  Hydraulic Diffusivity Constrained D: 71.6437792812 (m2/s)
+  Mean of Residuals (Unconstrained): 0.0000611694
+  Standard Deviation of Residuals (Unconstrained): 0.0031364182
+  Mean of Residuals (Constrained): 0.0000611902
+  Standard Deviation of Residuals (Constrained): 0.0031364178
+
+After Outlier Removal:
+  Storage Coefficient S: 0.0002011004 []
+  Transmissivity T: 0.0144075930 (m2/s)
+  Hydraulic Diffusivity D: 71.6437792812 (m2/s)
+  Mean of Residuals: 0.0000611902
+  Standard Deviation of Residuals: 0.0031364178
+==============================================================
+
+=========== RESULTS SUMMARY at r=243.84 m ====================
+Initial Fit (With Outliers):
+  Storage Coefficient Unconstrained S: 0.0001673147 []
+  Transmissivity Unconstrained T: 0.0157992435 (m2/s)
+  Hydraulic Diffusivity Unconstrained D: 94.4282833517 (m2/s)
+  Storage Coefficient Constrained S: 0.0001673530 []
+  Transmissivity Constrained T: 0.0157973708 (m2/s)
+  Hydraulic Diffusivity Constrained D: 94.3954896410 (m2/s)
+  Mean of Residuals (Unconstrained): 0.0041574240
+  Standard Deviation of Residuals (Unconstrained): 0.0604369484
+  Mean of Residuals (Constrained): 0.0041658694
+  Standard Deviation of Residuals (Constrained): 0.0604363446
+
+After Outlier Removal:
+  Storage Coefficient S: 0.0002020103 []
+  Transmissivity T: 0.0143435027 (m2/s)
+  Hydraulic Diffusivity D: 71.0038302606 (m2/s)
+  Mean of Residuals: 0.0001105442
+  Standard Deviation of Residuals: 0.0022443442
+==============================================================
+
